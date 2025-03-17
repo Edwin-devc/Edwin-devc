@@ -4,6 +4,8 @@
 
 > Building cool stuff for the web ⚡
 
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-devc&show_icons=true&theme=dracula)
+
 ### ✨ What I Love Working With
 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
