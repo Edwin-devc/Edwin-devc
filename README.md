@@ -1,6 +1,6 @@
 # Hey! I'm Edwin 👋
 
-![Backend Developer & Devops](https://edwincodes.tech)
+[Backend Developer & Devops](https://edwincodes.tech)
 
 > Building cool stuff for the web ⚡
 
